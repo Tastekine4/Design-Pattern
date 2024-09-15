@@ -1,4 +1,4 @@
-package org.example.behavouraldesingpatterns.oberser;
+package org.example.behavouraldesingpatterns.obserser;
 
 public class Subscriber implements Observer {
     String name;

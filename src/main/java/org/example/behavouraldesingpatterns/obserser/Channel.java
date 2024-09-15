@@ -1,4 +1,4 @@
-package org.example.behavouraldesingpatterns.oberser;
+package org.example.behavouraldesingpatterns.obserser;
 
 import java.util.ArrayList;
 import java.util.List;
